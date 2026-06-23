@@ -1,37 +1,37 @@
-# 🏛️ Komputasi Weton & Falakiah Digital (v5.8)
+# 📑 Falak AI Dashboard - Kitab Bintang Duabelas (v4.6)
 
-Aplikasi berbasis web (*Single Page Application*) interaktif yang memadukan **Kaidah Falakiah Islam Klasik** (berdasarkan manuskrip asli Syeikh Abi Ma'shar al-Falak dalam *Kitab Bintang Duabelas*) dengan **Sistem Ilmu Titen Kejawen** (Primbon Jawa & Pancasuda). 
+Aplikasi berbasis web (*Single Page Application*) interaktif dan responsif yang mendigitalisasi metode hisab klasik **Kaidah Falakiah Islam Kuno** berdasarkan manuskrip asli karya Syeikh Abi Ma'shar al-Falak dalam *Kitab Bintang Duabelas*. 
 
-Aplikasi ini dirancang sepenuhnya menggunakan HTML, CSS, dan Vanilla JavaScript dengan antarmuka bertema kertas perkamen kuno (*Premium Javanese Parchment Layout*) yang responsif dan nyaman digunakan di HP maupun perangkat desktop.
+Antarmuka dasbor dirancang dengan estetika kertas perkamen kuno (*Premium Classic Parchment Layout*) yang mengombinasikan nuansa spiritual tradisional dengan teknologi modern, serta dioptimalkan penuh agar responsif saat dibuka melalui HP maupun desktop.
 
 ---
 
 ## 🔗 Akses Website Aplikasi
-Klik tautan di bawah ini untuk mencoba aplikasi secara langsung secara online:
-👉 **[Buka Aplikasi Komputasi Weton & Falakiah](https://jaiz-lana.github.io/KalJa/)**
+Silakan klik tautan di bawah ini untuk mencoba aplikasi secara langsung secara online:
+👉 **[Buka Aplikasi Falak AI Dashboard (KalFa)](https://jaiz-lana.github.io/KalFa/)**
 
 ---
 
-## 🧿 Fitur Utama Aplikasi
+## 🧿 Fitur Utama Dasbor KalFa
 
-1. **Dashboard Utama:** Hub pusat navigasi interaktif bergaya grid untuk mengakses seluruh modul keilmuan.
-2. **Kalkulator Weton & Hijriah:** Konversi instan tanggal lahir Masehi untuk melacak hari pasaran (Weton Jawa) beserta padanan tanggal Kalender Hijriah, lengkap dengan penjabaran **35 Sifat Bawaan Lahir** yang akurat.
-3. **Kalkulator Jodo Ganda Otomatis:** Analisis keselarasan hubungan jodoh berdasarkan akumulasi neptu kelahiran pria & wanita menggunakan pembagian rumus **Pancasuda Jawa ($\div 5$)**, lengkap dengan persentase kecocokan dan saran preventif.
-4. **Hitung Neptu Nama Flexible:** Fasilitas penghitungan bobot karakter nama via huruf Latin maupun Aksara Jawa asli, dilengkapi dengan **Keyboard Virtual Aksara Jawa** dan fitur transliterasi otomatis.
-5. **Kalender Hari Baik Dinamis:** Sistem kalender interaktif lintas milenium (**Tahun 1000 s.d 3000**) untuk mengaudit pergerakan *Naga Dino* harian serta arah kiblat rezeki terbaik.
+1. **Panel Kontrol Utama (Menu Utama):** Gerbang navigasi berbasis kartu (*card-based navigation*) untuk mengakses setiap modul perhitungan secara instan.
+2. **Komputasi Nilai Huruf Live (Jumal Kabir):** Fitur kalkulasi nilai abjad nama secara waktu-nyata (*real-time*). Input diwajibkan menggunakan huruf Arab asli (Hijaiyah) untuk mencegah galat nilai, dilengkapi rincian rumus dan *breakdown* nilai per huruf.
+3. **Analisis Liriksa Perjodohan & Kawan (÷9):** Modul komparasi kecocokan hubungan berdasar nilai gabungan abjad nama pria dan wanita menggunakan kaidah otentik halaman 11 dengan penambah (+7) digugurkan 9-9. Menampilkan sisa bagi, persentase keberhasilan, teks analisis, serta qoul kitab asli.
+4. **Diagnosis Unsur & Penyebab Penyakit (÷7):** Modul deteksi asal muasal keluhan/penyakit pasien berdasarkan nilai abjad nama dan hari pertama jatuh sakit menggunakan kaidah otentik halaman 11-12 dengan penambah (+10) digugurkan 7-7. Menampilkan hasil sisa, rincian solusi pengobatan tradisional, serta qoul kitab asli.
+5. **Dukungan Multi-Tema & Mobile Responsive:** Dilengkapi tombol *Malih Rupa* untuk berpindah ke *Premium Dark Mode*. Struktur tata letak otomatis berubah menjadi *Bottom Navigation Bar* yang ringkas saat diakses via ponsel pintar (HP).
 
 ---
 
 ## 📜 Maklumat Keilmuan (Disclaimer)
-Perhitungan hisab numerik dalam aplikasi ini disadur dari kompilasi manuskrip kuno dan **bukan untuk diyakini sebagai takdir mutlak atau ketetapan gaib**. Hasil analisis ini hanya berfungsi sebagai sarana **"Titen"** (metode membaca pola/titik kesamaan gejala alam & perilaku sosial berdasarkan warisan pustaka spiritual leluhur). Segala kebenaran mutlak hanya milik Allah SWT.
+Perhitungan hisab numerik dalam aplikasi ini disadur dari kompilasi manuskrip kuno klasik dan **bukan untuk diyakini sebagai takdir mutlak atau ketetapan gaib**. Hasil analisis ini hanya berfungsi sebagai sarana **"Titen"** (metode membaca pola/titik kesamaan gejala alam & perilaku sosial berdasarkan warisan pustaka spiritual leluhur). Segala kebenaran mutlak hanya milik Allah SWT.
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-* HTML5 (Semantic Structure)
-* CSS3 (Dashboard Grid & Flexbox Mobile Responsive, Glassmorphism Effect)
-* Vanilla JavaScript (Core Algorithm & Real-time Modulo Matrix Calculations)
-* FontAwesome (Premium Dashboard Icons)
+* **HTML5** (Semantic Structure & Form Controls)
+* **CSS3** (Dashboard Layout, `@media` Responsive Mobile Breakpoints, Custom Theme Variables)
+* **Vanilla JavaScript** (Real-time Core Calculation, Modulo Matrix, SPA Tab-Navigation Controls)
+* **FontAwesome v6.4.0** (Premium Vector Icons)
 
 ---
-*Dibuat dengan rasa hormat pada warisan budaya pustaka spiritual Nusantara.*
+*Dibuat dengan rasa hormat pada khazanah warisan pustaka spiritual dan komputasi budaya klasik.*
